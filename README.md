@@ -13,7 +13,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Cara_e_Coroa/blob/main/github/bandicam%202023-03-15%2017-14-37-490.gif"/>
+  <img src="https://github.com/Lucas8901/temperature_converter/blob/main/github/bandicam%202023-03-16%2021-22-49-725.gif"/>
   </div>
   
 <br>
