@@ -1,7 +1,7 @@
 
 <h1 align="center">Temperature Converter 🌡️</h1>
  <div align="left">
-  <img src="https://github.com/Lucas8901/Cara_e_Coroa/blob/main/github/thumb.jpeg"/>
+  <img src="https://github.com/Lucas8901/temperature_converter/blob/main/github/WhatsApp%20Image%202023-03-16%20at%2021.28.28.jpeg"/>
   </div>
 <br>
 
